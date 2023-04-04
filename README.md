@@ -1,0 +1,2 @@
+# stcg
+temporary documentation website
