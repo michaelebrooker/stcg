@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+author: "Mike Brooker"
+title: "St John's Community Garden Project"
+date: 
+categories: 
 ---
+
+# The site
+
+pix go here
+
+1. site pic
+2. sketch plan
